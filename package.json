@@ -35,7 +35,7 @@
     "rimraf": "^2.0.0",
     "semantic-release": "^8.2.0",
     "ts-jest": "^21.2.3",
-    "ts-node": "^3.2.0",
+    "ts-node": "^4.1.0",
     "tslint": "^5.0.0",
     "tslint-config-lemon": "^1.1.7",
     "typescript": "^2.3.0"
